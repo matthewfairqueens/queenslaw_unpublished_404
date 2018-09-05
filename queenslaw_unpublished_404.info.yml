@@ -1,0 +1,5 @@
+name: "Queen's University Faculty of Law Unpublished 404"
+type: module
+description: "Functionality for unpublished nodes to show 404 instead of 403 to unauthorized users for Queen's Faculty of Law websites."
+package: "Queen's University Faculty of Law"
+core: 8.x

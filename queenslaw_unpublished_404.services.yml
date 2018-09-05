@@ -1,0 +1,6 @@
+services:
+  queenslaw_unpublished_404.404:
+    class: Drupal\queenslaw_unpublished_404\EventSubscriber\QueensLawUnpublished404Subscriber
+    arguments: []
+    tags:
+      - { name: event_subscriber }

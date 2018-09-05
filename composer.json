@@ -1,0 +1,16 @@
+{
+  "name": "drupal/queenslaw_unpublished_404",
+  "description": "Functionality for unpublished nodes to show 404 instead of 403 to unauthorized users for Queen's Faculty of Law websites.",
+  "type": "drupal-custom-module",
+  "homepage": "http://law.queensu.ca/",
+  "authors": [
+    {
+      "name": "Noah St. Amand",
+      "email": "noah@purelyinteractive.ca",
+      "role": "Maintainer"
+    }
+  ],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": { }
+}
